@@ -1,6 +1,4 @@
-# 💫 About Me:
-💻 Im Patryk, hi!<br>💭 Im currently working at nothing<br>🪪 Im from Poland, Rzeszów.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi!+Im+Patryk+%F0%9F%91%8B;Im+beginner+web+developer!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hjF4HWxmw8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patrryczekk__) 
